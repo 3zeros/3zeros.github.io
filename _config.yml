@@ -103,4 +103,4 @@ footer_links:
     url: atom.xml
     icon: fas fa-rss-square
     
-remote_theme : mmistakes/minimal-mistakes
+remote_theme : mmistakes/so-simple-theme
